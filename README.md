@@ -1,4 +1,4 @@
-# Automobile-Sales-Statistics-Dashboard
+# Data Visualization with Python
 # Automobile Sales Statistics Dashboard
 
 **Final Submission — February 28, 2025**
